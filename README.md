@@ -19,7 +19,7 @@ Finally, the Corn Cob Rotisserie is an environmentally friendly option for corn 
 #
 ### Notes
 
-Unrelated Patent
+#### Unrelated Patent
 
 There is a [patented invention](https://patents.google.com/patent/US9155421B2/en?oq=9155421) similar to a device specifically for roasting corn on the cob. This device includes one or more cylindrical heating chambers housed within an enclosure for electric roasting. It also features a mechanism to hold the corn during roasting and a controller to manage the heating time and intensity. Another relevant patent covers a rotisserie grill that incorporates a horizontal spit to evenly cook food items such as meat, which can also include various attachments for securing the food to the spit.
 
