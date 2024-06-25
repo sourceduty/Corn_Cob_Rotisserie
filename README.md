@@ -24,6 +24,8 @@ Finally, the Corn Cob Rotisserie is an environmentally friendly option for corn 
 [Maglev Desk Speaker](https://github.com/sourceduty/Maglev_Speaker)
 <br>
 [Body Dryer Pod](https://github.com/sourceduty/Body_Dryer_Pod)
+<br>
+[Design Marketability](https://chat.openai.com/g/g-CBEjzqq1V-design-marketability)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
