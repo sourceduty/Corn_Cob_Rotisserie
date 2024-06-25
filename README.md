@@ -17,6 +17,13 @@ The design of the Corn Cob Rotisserie also reflects current trends in kitchen ap
 Finally, the Corn Cob Rotisserie is an environmentally friendly option for corn preparation. By utilizing an electric heating element, it reduces the need for open flame grilling, which can contribute to indoor air pollution and energy consumption. The efficiency of the rotisserie ensures that it uses minimal energy to achieve optimal cooking results. Additionally, the durable materials used in its construction mean that it has a longer lifespan, reducing the frequency of replacement and subsequent waste. This sustainable approach to product design is increasingly important to consumers who are mindful of their environmental impact.
 
 #
+### Notes
+
+Unrelated Patent
+
+There is a [patented invention](https://patents.google.com/patent/US9155421B2/en?oq=9155421) similar to a device specifically for roasting corn on the cob. This device includes one or more cylindrical heating chambers housed within an enclosure for electric roasting. It also features a mechanism to hold the corn during roasting and a controller to manage the heating time and intensity. Another relevant patent covers a rotisserie grill that incorporates a horizontal spit to evenly cook food items such as meat, which can also include various attachments for securing the food to the spit.
+
+#
 ### Related Links
 
 [Air Bubble Clock](https://github.com/sourceduty/Air_Bubble_Clock)
