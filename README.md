@@ -45,6 +45,8 @@ Considering its unique functionality and high-end design, the suggested retail p
 [Body Dryer Pod](https://github.com/sourceduty/Body_Dryer_Pod)
 <br>
 [Design Marketability](https://chat.openai.com/g/g-CBEjzqq1V-design-marketability)
+<br>
+[Product Demand](https://chatgpt.com/g/g-d5kkMZSIk-product-demand)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
